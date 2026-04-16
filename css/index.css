@@ -111,9 +111,9 @@ body{
   background-position: center bottom;
   */
   background: conic-gradient(
-    red,
+    blue,
     orange,
-    yellow,
+    blue,
     green,
     teal,
     blue,
