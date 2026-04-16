@@ -101,7 +101,7 @@ textarea {
 
 /* Generic */
 
-body{
+/*body{
   width: 100vw;
   height: 100vh;
 
@@ -110,34 +110,20 @@ body{
   background-repeat: no-repeat;
   background-position: center bottom;
   */
-  background:
-    radial-gradient(
-      ellipse at center bottom,
-      rgba(255, 0, 102, 0.95) 0%,
-      rgba(255, 0, 102, 0.75) 30%,
-      rgba(255, 0, 102, 0.25) 55%,
-      rgba(255, 0, 102, 0) 75%
-    ),
-    repeating-conic-gradient(
-      from -25deg at 50% 100%,
-      #ff1f3d 0deg 18deg,
-      #ff6a2a 18deg 36deg,
-      #f4d52b 36deg 54deg,
-      #8bb63f 54deg 72deg,
-      #3f9a3d 72deg 90deg,
-      #177f77 90deg 108deg,
-      #1f9dc2 108deg 126deg,
-      #2589d8 126deg 144deg,
-      #7b4bb3 144deg 162deg,
-      #c2187a 162deg 180deg
-    );
+ 
    
   font-family: "fairplex-wide";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+*/
 
 
+body{
+  margin: 0;
+  min-height: 100vh;
+  background: hotpink !important;
+}
 
 
 
