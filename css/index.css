@@ -101,29 +101,22 @@ textarea {
 
 /* Generic */
 
-/*body{
+body{
   width: 100vw;
   height: 100vh;
 
-  /*background-image: url(../images/background.png);
+  background-image: url(../images/background.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
-  */
+  
  
    
   font-family: "fairplex-wide";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-*/
 
-
-body{
-  margin: 0;
-  min-height: 100vh;
-  background: hotpink !important;
-}
 
 
 
