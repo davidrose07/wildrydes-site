@@ -105,11 +105,22 @@ body{
   width: 100vw;
   height: 100vh;
 
-  background-image: url(../images/background.png);
+  /*background-image: url(../images/background.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
-
+  */
+  background: conic-gradient(
+    red,
+    orange,
+    yellow,
+    green,
+    teal,
+    blue,
+    purple,
+    pink,
+    red
+  );
   font-family: "fairplex-wide";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
